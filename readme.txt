@@ -1,133 +1,96 @@
-==================================================================================================
+=== Portfolio Web ===
 
-DESCRIPTION:
+Contributors: acmethemes
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, custom-logo, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, portfolio, entertainment, education
+Requires at least: 4.8
+Tested up to: 5.2.4
+Requires PHP: 5.6.20
+Stable tag: 2.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-SUBLIME is a Creative HTML5 one-page template designed for creative agencies, studios, digital 
-design and media agencies or other similar business. The template is a dark theme design with 
-features like fullscreen header/hero section, responsive video lightbox, a nice portfolio section 
-and much more. The template is primarily designed for creative agencies but it is versatile enough 
-to be used for other purposes like a landing page for your startup or business website.
+Portfolio Web is minimalist and sleek WordPress theme designed particularly for a portfolio website.
 
-==================================================================================================
+== Description ==
 
+Portfolio Web is minimalist and sleek WordPress theme designed particularly for a portfolio website. This theme is perfectly fit for both Personal and Corporate Portfolio websites. The trendy and lovely look of the theme will be a perfect one for showcasing your works online in a well-organized and professional manner. The theme can be updated effortlessly with its live customizer. By using its available widgets you can design the homepage and other pages of your site as you desire. It has good adaptability with all the modern electronic devices in the market so if you check your site in mobile phones and tablets it will certainly look good and adjusted. The theme also looks good in all the popular web browsers such as Google Chrome, Firefox, Opera, and Safari etc. The amazing features slider section on the front page makes it magnificent and appealing. The other exciting features of the theme include translation ready, breadcrumb options, background image, colours options, social media integration, copyright text and much more.
 
-LICENSE:
+== Frequently Asked Questions ==
 
-This free resource is provided by Styleshout.com and is free to use in 
-both personal and commercial projects.
+= How to Install Theme =
 
+1. In your admin panel, go to Appearance > Themes and click the Add New button and Search for Portfolio Web, OR
+2. If you have the theme zip file, click Upload and choose File, then select the theme's .zip file. Click Install Now.
+3. Click Activate to use your new theme right away.
 
-Rights:
--------
+= Front Page/Home page Customization ==
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+1. In the admin area, go to Pages > Add New
+2. Again In the admin area, go to Settings > Reading
+3. In Frontpage displays choose 'A static page (select below)' and select page for homepage/frontpage
+4. The sidebar "Home Main Content Area" will display in the homepage
 
+= How to change content or customize site? =
+1. In the admin area, go to Appearance > Customize
+2. You will find different options in customizer
+3. Add/Edit Widgets, Page and Post
 
-Prohibitions:
--------------
+== Change log ==
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+= 2.0.0 - Oct 17 2019 =
+* Added : wp_body_open hook in header
+* Added : Gutentor Plugin in TGM
+* Added : wp-config.xml file for translation
+* Added : Upgrade to pro
+* Fixed : Screen Reader Text
 
+= 1.0.0 =
+* Submitted on WordPress dot org
 
-Attribution: 
-------------
+== Copyright ==
 
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
+Portfolio Web WordPress Theme, Copyright 2018 Acme Themes( acmethemes.com )
+Portfolio Web is distributed under the terms of the GNU GPL
 
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
 
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
-If you have any questions about the License, feel free to contact us.
+Portfolio Web bundles the following third-party resources:
 
+* Unless otherwise specified, all the theme files, scripts and images are licensed under GNU General Public License Version 2 or later.
+* Based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
+* Google Fonts - Apache License, version 2.0
+* normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2015 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
+* Bootstrap http://getbootstrap.com/ [MIT](http://opensource.org/licenses/MIT) Copyright 2011-2015 Twitter, Inc.
+* countUp.js https://github.com/inorganik/CountUp.js [MIT](http://opensource.org/licenses/MIT) by @inorganik
+* Font-Awesome https://github.com/FortAwesome/Font-Awesome , Font: SIL OFL 1.1, CSS: MIT License by @davegandy
+* html5shiv https://github.com/afarkas/html5shiv [MIT](http://opensource.org/licenses/MIT) by @afarkas @jdalton @jon_neal @rem
+* Isotope PACKAGED http://isotope.metafizzy.co GPLv3 Copyright 2017 Metafizzy
+* Easy pie chart https://github.com/rendro/easy-pie-chart/
+Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
+and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
+Copyright (c) 2015 Robert Fleischmann, contributors
+* Magnific Popup https://github.com/dimsemenov/Magnific-Popup [MIT](https://github.com/dimsemenov/Magnific-Popup/blob/master/LICENSE)
+* respond.min https://github.com/scottjehl/Respond [MIT](http://opensource.org/licenses/MIT) Copyright Scott Jehl
+* Slick https://github.com/kenwheeler/slick/ [MIT](http://opensource.org/licenses/MIT) Copyright (c) 2014 Ken Wheeler
+* Theia Sticky Sidebar https://github.com/WeCodePixels/theia-sticky-sidebar [MIT](http://opensource.org/licenses/MIT) Copyright 2013-2016 WeCodePixels and other contributors
+* Waypoints https://github.com/imakewebthings/waypoints/ [MIT](http://opensource.org/licenses/MIT) Copyright © 2011-2016 Caleb Troughton
+* WOW https://github.com/matthieua/WOW [MIT](http://opensource.org/licenses/MIT) Copyright (c) 2013 Daniel Eden
+* TGM-Plugin-Activation Copyright 2011 Thomas Griffin (thomas licensed under the GNU GPL
 
------------------------------------------------------------------------------------------------------
+== Screenshots ==
 
+* https://pxhere.com/en/photo/1389036 - License CC0 Public Domain
 
-REMOVING THE ATTRIBUTION LINK:
+== Other Images ==
 
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since SUBLIME is distributed for free, support is not offered. SUBLIME is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - https://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Nunito Sans Font (https://fonts.google.com/specimen/Nunito+Sans)
- - Montserrat Font (https://fonts.google.com/specimen/Montserrat) 
-
-Icons:
- - Font Awesome (https://fontawesome.com/)
- - Micons Free Icons (https://themeui.net/micons-231-icons/)
- - Webfont generated by ICOMOON (https://icomoon.io/) 
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- - The Pattern Library (http://thepatternlibrary.com/)
- 
-Javascript Files:
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - Parallax.js (http://pixelcog.github.io/parallax.js/)
- - Slick slider (http://kenwheeler.github.io/slick/)
- - Masonry - (https://github.com/desandro/masonry)
- - Lity - (https://sorgalla.com/lity/)
- - Animate On Scroll (https://michalsnik.github.io/aos/)
- - Photoswipe (http://photoswipe.com/)
-
-
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from Styleshout :)
-
-
+* portfolio-web-inner-banner1920x600.jpg https://pxhere.com/en/photo/1400213  - License CC0 Public Domain
+* default-image.jpg Self Created - License CC0 Public Domain
+* 404-image.png Self Created - License CC0 Public Domain
